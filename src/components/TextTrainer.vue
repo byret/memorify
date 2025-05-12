@@ -72,7 +72,9 @@
         </div>
       </div>
       <div class="footer">
-        <p class="footer-text">made by <a href="github.com/byret">byret</a></p>
+        <p class="footer-text">
+          made by <a href="https://github.com/byret" target="_blank" rel="noopener">byret</a>
+        </p>
       </div>
     </div>
   </div>
